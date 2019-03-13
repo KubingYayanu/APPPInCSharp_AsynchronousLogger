@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsynchronousLogger.Console", "AsynchronousLogger.Console\AsynchronousLogger.Console.csproj", "{AD5CD16A-D40D-4D95-BF4D-60CF882E56AE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsynchronousLogger.UnitTests", "AsynchronousLogger.UnitTests\AsynchronousLogger.UnitTests.csproj", "{CFAE4801-7604-4B18-817E-23A5BF26EA53}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AD5CD16A-D40D-4D95-BF4D-60CF882E56AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD5CD16A-D40D-4D95-BF4D-60CF882E56AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD5CD16A-D40D-4D95-BF4D-60CF882E56AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD5CD16A-D40D-4D95-BF4D-60CF882E56AE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CFAE4801-7604-4B18-817E-23A5BF26EA53}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFAE4801-7604-4B18-817E-23A5BF26EA53}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFAE4801-7604-4B18-817E-23A5BF26EA53}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFAE4801-7604-4B18-817E-23A5BF26EA53}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

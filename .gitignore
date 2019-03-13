@@ -1,0 +1,6 @@
+.vs/
+AsynchronousLogger.Console/bin/
+AsynchronousLogger.Console/obj/
+AsynchronousLogger.UnitTests/bin/
+AsynchronousLogger.UnitTests/obj/
+packages/
